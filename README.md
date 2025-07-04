@@ -3,11 +3,12 @@ This is a small guide to help you get started with LODOX Training.
 
 ## Setup
 1. Create a conda environment using the following command:
+   
 ``
 conda create --name Lodox python==3.10 -y
 ``
 
-    This creates a conda environment with the name: `Lodox`
+This creates a conda environment with the name: `Lodox`
 
 2. Activate the environment using the command:
 
